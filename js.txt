@@ -1,0 +1,160 @@
+1. What are the different data types present in javascript ?
+
+Ans. two types - primitive and non primitive
+Primive - number, string, boolean, null, bigInt, undefined, Symbol
+Non primitive - Objects
+
+
+2. Difference between “ == “ and “ === “ operators.
+
+Ans. The `==` Operator is used to only compare value wherease `===` operator is used to compare both values and daya types.
+
+
+3. What is ternary operator in Javascript ?
+
+Ans. ternary operator is an alternative form of if/else statement.
+
+
+4. What is this in Javascript.
+
+Ans. The “this” keyword refers to the object that the function is a property of.
+
+
+
+5. What is Object Destructuring ?
+
+Ans. Object destructuring is a new way to extract elements from an object.
+
+
+6. What are arrow functions?
+
+Ans. Arrow functions were introduced in Ecma Script. They provide us a new and shorter syntax for declaring functions.
+
+
+7. What are callback function in javascript ? 
+
+Ans. callback function is a plain js function which passed to another function as argument. it is executed after
+  another function has finished executing.
+
+
+
+8. What are Higher order function in javascript ? 
+
+Ans. A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
+
+
+
+9. What is Promise in Javascript ?
+
+Ans. Promise is a special javascript object. which is used to perform asynchronous operations in javascript. 
+
+
+10. What is async/await in Javascript ?
+
+Ans. async keyword allows us to write promises-based code as if it was synchronous code.
+await keyword is used to wait for a promise. `await` keyword is used within the async block only.
+
+
+
+11. What is Hoisting in Javascript ?
+
+Ans. Hoisting is the default behavior of js  where all declarations moved to  top of the current scope before code execution.
+
+
+12. What is JSON.
+
+Ans. JSON stands for Javasript Object Notation. It is a text format for storing and transporting data.
+
+
+13. What is DOM?
+
+Ans. DOM means Document object Model. When browser render HTML Document. it create an object's tree based on HTML Document.
+ which we called DOM.
+
+
+14. What do you mean by BOM?
+
+Ans. BOM means Browser object Model. it help us to interact with the browser.
+
+			
+
+15. What is Event bubbling in Javascript ?
+
+Ans. Event bubbling is the method of event propogation, in which event travels from innermost element to the outermost parent element.
+Event bubbling is also known as Event Propagation or Event Delegation.
+
+
+16. What is Event Propagation in Javascript ?
+
+Ans. Event propagation is a way to describe the “stack” of events that are fired in a web browser.
+
+ 
+
+17. How can event bubbling can be stopped?
+
+Ans. stopPropagation() method of javascript used for stopping event bubbling.
+
+
+18. What is differrence between map and foreach.
+
+Ans. The map() method returns a new array, whereas the forEach() method does not return a new array.
+
+
+
+Array Methods: 
+
+-----> map - map method is used to iterate over an array and modify its element using a callback function.
+
+-----> forEach - the forEach() method calls a function for each element in an array.
+
+-----> push - The push() method adds new items to the end of an array.
+
+-----> Pop - The pop() method removes (pops) the last element of an array.
+
+-----> Unshift - The unshift() method adds new elements to the beginning of an array.
+
+-----> Shift - The shift() method removes the first item of an array.
+
+-----> Slice - The slice() method returns selected elements in an array, as a new array.
+
+-----> Splice - The splice() method adds and/or removes array elements.
+
+
+
+19. What is a “closure” in JavaScript?
+
+Ans. A closure is an inner function that has access to the variables in the outer (enclosing) function’s scope chain.
+
+The closure has access to variables in three scopes; specifically: (1) variable in its own scope,
+
+ (2) variables in the enclosing function’s scope, and (3) global variables.
+
+
+
+20. What is Event Loop ?
+
+Ans. The Event Loop is a constently running process that monitors both the callback queue and the call stack.
+
+21. What is Fetch in Javascript ?
+
+Ans. Fetch is a built in method in javascript; it is used to request data from a server.
+
+
+22. What is Shallow Copy and Deep Copy in Javascript ?
+
+Ans. A deep copying means that value of the new variable is disconnected from the original variable while a shallow copy means that some values are still connected to the original variable.
+
+
+23. What is Rest Operator in Javascript ?
+
+Ans. The rest operator is used to put the rest of some specific user-supplied values into a JavaScript array.
+
+
+24. What is Spread Operator in Javascript ?
+
+Ans. The spread operator allows you to spread out elements of an iterable object such as an array.
+Uses of spread operator: 
+
+- Copying an array
+
+- Inserting the elements of one array into another

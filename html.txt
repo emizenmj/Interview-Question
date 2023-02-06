@@ -1,0 +1,119 @@
+What is HTML5 ?
+
+Ans. HTMl5 is the latest version of HTML. It has some new Fetures Like
+
+- HTML5 support canvas, svg and other vector graphics.
+
+- HTML5 support Audio and Video Tags.
+
+- HTML5 Support localStorage.
+
+
+
+What are HTML Attributes ?
+
+Ans. Html attributes provides additional information about HTML elements. HTML attributes usually consist of name/value pairs like name=”value”.
+
+
+
+What is semantic HTML?
+
+Ans. Semantic Html is a coding style. A semantic element clearly describes its meaning to both the browser and the developer.
+
+
+
+How many types of CSS can be included in HTML?
+
+Ans. Three Types - Inline, Internal, External.
+
+
+
+What is the difference between a block-level element and an inline element?
+
+Ans. a block level element is always start with a new line and occupy the full width available whereas inline element does not start with a new line.
+
+and it will occupy only enough width that is sufficient to it.
+
+
+
+What is the difference between display: none and visibility: hidden?
+
+Ans. When we use visaibility: hidden, the element will be hidden from webpage but still occupy space. but when we use display: none, the element will
+be hidden and will not occupy any space.
+
+
+
+What is the difference between opacity: 0; and visibility: hidden?
+
+Ans. When we visibility: hidden; no events works on elements, but we use opacity: 0; all events works on element.
+
+
+
+What is the use of the z-index?
+
+Ans. The z-index is used to specify the stack order of an element. the higher stack order element's will appear infront of lower stack order elements. 
+
+
+
+Why should we use the float property in CSS?
+
+Ans. The Float property is used to positioning the HTML elements horizontally. either todards left or right.
+
+
+
+What is pseudo class in CSS.
+
+Ans. Pseudo-class is used to style a special state of an element.
+
+Like :hover, :active, :firs-child, :last-child etc.
+
+
+What is Pseudo-element in CSS ?
+
+Ans. A CSS pseudo-element is used to style specified parts of an element.
+
+Like :after, :before
+
+
+What is Combinators in CSS ?
+
+Ans. A combinator is something that explains the relationship between the selectors.
+
+Four Types of Combinator: 
+
+descendant selector(space) - select all elements that are descendants of a specified element.
+
+child selector (>) - selects all elements that are the direct children of a specified element.
+
+Adjacent Sibling Selector (+) - The adjacent sibling selector is used to select an element that is directly after another specific element.
+
+General Sibling Selector (~) - selects all elements that are next siblings of a specified element.
+
+
+
+What is Box Model in CSS ?
+
+Ans. Box model is something like a rectangular box that wraps around all html element. it consists of four parts, the first one is Margin, then border, then padding and last is actual content.
+
+
+
+What is Box sizing in CSS ?
+
+Ans. The CSS box-sizing property allows us to include the border and padding in an element's total width and height.
+
+
+
+What is Object Fit in CSS ?
+
+Ans. The CSS object-fit property is used to specify how an <img> or <video> should be resized to fit its container.
+
+
+
+What is Flexbox ?
+
+Ans. Flexbox is a layout module in css. it is a 2 - dimensional layout module which works in x and y both axis.
+
+
+
+
+

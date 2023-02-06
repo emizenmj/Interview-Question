@@ -1,0 +1,123 @@
+1. What is React ?
+
+Ans. React JS is a Open-source JS Library developed by Facebook. it is used to developing UI for single page application.
+
+
+
+2. What are the features of React?
+
+Ans. It uses the virtual DOM instead of the real DOM.
+
+It uses server-side rendering.
+
+It follows unidirectional data binding or data flow.
+
+
+
+3. What is a state in React?
+
+Ans. state is a built in react object which is used to store data about component.
+
+
+
+4. What is Props in react ?
+
+Ans. Props are arguments for components. props are immutable. it passed to compoent via html attributes.
+
+
+
+5. What is React Hooks?
+
+Ans. React hooks are in built functions of react that allow us to use state variable and other lifecycle method within react component.
+
+
+
+6. What is useState() in React?
+
+Ans. useState is a bulit in hook in react. it is used to define state varible in functional component.
+
+
+7. What is Virtual DOM in React ?
+
+Ans. React JS never update DOM directly. In react js for every DOM Object, there is a corresponding copy of original DOM, which we call Virtual DOM.
+
+
+
+8. What is JSX in React ?
+
+Ans. JSX is a shorthand for JavaScript XML.  with the help of jsx we can write HTML in Javascript.
+
+
+
+9. What is useEffect in React ?
+
+Ans. useEffect is a prebuilt hooks in react. it is used to perform side effects in functional component. With the help of useEffect, you tell react that your component needs to do something after render.
+
+
+10. What are the different phases of the component lifecycle?
+
+Ans. There are four different phases in the lifecycle of React component. They are:
+
+Initial Phase
+Mounting Phase
+Updating Phase
+Unmounting Phase
+
+
+11. What is HOC in React ?
+
+Ans. A higher-order component (HOC) is an advanced technique in React for reusing component logic. Higher Order Component is simply a function, which takes a Component as an argument and return a new Component.
+
+
+12. What is prop drilling in React?
+
+Ans. The process of passing data between parents component to child and grand child component. we call prop drilling.
+
+
+13. What are the differences between functional and class components?
+
+Ans. 
+
+We can use react lifecycle method in class component whereas we can't use these method in functional Component.
+
+we can use hooks in functional component whereas we cannot use hooks in class component.
+
+function component cannot have state whereas class component have own state.
+
+
+
+14. How to pass data between parent to child components in react?
+
+Ans. With the help of props, we can send data from a parent to a child component.
+
+
+
+15. What is useRef in React ?
+
+Ans. useRef is a inbuilt hooks in react, which is used to create a reference for DOM element in function component.
+
+
+16. What is React Router.
+
+Ans. React Router is a routing library. which is used to create routes in a react application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
