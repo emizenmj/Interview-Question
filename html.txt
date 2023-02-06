@@ -115,5 +115,18 @@ Ans. Flexbox is a layout module in css. it is a 2 - dimensional layout module wh
 
 
 
+What is VW/VH in CSS ?
+
+Ans. It is a Css unit. it is used to mesure the width and height in percentage with respect to the viewport.
+
+
+What is Responsive Web Design in CSS ?
+
+Ans. This technique is used to display the designed page perfectly on every screen size and device.
+
+
+
+
+
 
 
