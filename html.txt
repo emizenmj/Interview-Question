@@ -28,7 +28,7 @@ Ans. Three Types - Inline, Internal, External.
 
 
 
-What is the difference between a block-level element and an inline element?
+What is the difference between a block-level element and an inline element ?
 
 Ans. a block level element is always start with a new line and occupy the full width available whereas inline element does not start with a new line.
 
@@ -114,18 +114,13 @@ What is Flexbox ?
 Ans. Flexbox is a layout module in css. it is a 2 - dimensional layout module which works in x and y both axis.
 
 
+What is the difference between bootstrap3, bootstrap4 and bootstrap 5 ?
 
-What is VW/VH in CSS ?
+Ans. bootstrap3 has 4 tier grid system - xs, md, lg, xl and conatiner width is 1170px
 
-Ans. It is a Css unit. it is used to mesure the width and height in percentage with respect to the viewport.
+bootstrap4 has 5 tier grid system - col, col-sm, col-md, col-lg, col-xl and conatiner width is 1140px
 
-
-What is Responsive Web Design in CSS ?
-
-Ans. This technique is used to display the designed page perfectly on every screen size and device.
-
-
-
+bootstrap5 has 6 tier grid system - col, col-sm, col-md, col-lg, col-xl, col-xxl and conatiner width is 1320px
 
 
 

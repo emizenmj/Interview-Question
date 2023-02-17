@@ -17,7 +17,15 @@ Ans. ternary operator is an alternative form of if/else statement.
 
 4. What is this in Javascript.
 
-Ans. The “this” keyword refers to the object that the function is a property of.
+Ans. The `this` keyword refers to different objects depending on how it is used:
+
+- In an object method, this refers to the object.
+
+- Alone, this refers to the global object.
+
+- In a function, this refers to the global object.
+
+- In a function, in strict mode, this is undefined.
 
 
 
@@ -33,8 +41,7 @@ Ans. Arrow functions were introduced in Ecma Script. They provide us a new and s
 
 7. What are callback function in javascript ? 
 
-Ans. callback function is a plain js function which passed to another function as argument. it is executed after
-  another function has finished executing.
+Ans. callback function is a plain js function which passed to another function as argument. it is executed after another function has finished executing.
 
 
 
@@ -51,7 +58,8 @@ Ans. Promise is a special javascript object. which is used to perform asynchrono
 
 10. What is async/await in Javascript ?
 
-Ans. async keyword allows us to write promises-based code as if it was synchronous code.
+Ans. async keyword allows us to write promises-based code as it was synchronous code.
+
 await keyword is used to wait for a promise. `await` keyword is used within the async block only.
 
 
@@ -68,7 +76,7 @@ Ans. JSON stands for Javasript Object Notation. It is a text format for storing 
 
 13. What is DOM?
 
-Ans. DOM means Document object Model. When browser render HTML Document. it create an object's tree based on HTML Document.
+Ans. DOM means Document object Model. When browser render HTML Document. it creates an object's tree based on HTML Document.
  which we called DOM.
 
 
@@ -135,6 +143,7 @@ The closure has access to variables in three scopes; specifically: (1) variable 
 
 Ans. The Event Loop is a constently running process that monitors both the callback queue and the call stack.
 
+
 21. What is Fetch in Javascript ?
 
 Ans. Fetch is a built in method in javascript; it is used to request data from a server.
@@ -142,7 +151,9 @@ Ans. Fetch is a built in method in javascript; it is used to request data from a
 
 22. What is Shallow Copy and Deep Copy in Javascript ?
 
-Ans. A deep copying means that value of the new variable is disconnected from the original variable while a shallow copy means that some values are still connected to the original variable.
+Ans. A deep copying means that value of the new variable is disconnected from the original variable
+ 
+while a shallow copy means that some values are still connected to the original variable.
 
 
 23. What is Rest Operator in Javascript ?
@@ -152,7 +163,8 @@ Ans. The rest operator is used to put the rest of some specific user-supplied va
 
 24. What is Spread Operator in Javascript ?
 
-Ans. The spread operator allows you to spread out elements of an iterable object such as an array.
+Ans. The spread operator allow us to spread out elements of an iterable object such as an array.
+
 Uses of spread operator: 
 
 - Copying an array
