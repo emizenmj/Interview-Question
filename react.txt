@@ -3,7 +3,6 @@
 Ans. React JS is a Open-source JS Library developed by Facebook. it is used to developing UI for single page application.
 
 
-
 2. What are the features of React?
 
 Ans. It uses the virtual DOM instead of the real DOM.
@@ -51,7 +50,7 @@ Ans. JSX is a shorthand for JavaScript XML.  with the help of jsx we can write H
 
 9. What is useEffect in React ?
 
-Ans. useEffect is a prebuilt hooks in react. it is used to perform side effects in functional component. With the help of useEffect, you tell react that your component needs to do something after render.
+Ans. useEffect is a prebuilt hooks in react. It is used to perform side effects in functional component. With the help of useEffect, you tell react that your component needs to do something after render.
 
 
 10. What are the different phases of the component lifecycle?

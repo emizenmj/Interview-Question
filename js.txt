@@ -170,3 +170,28 @@ Uses of spread operator:
 - Copying an array
 
 - Inserting the elements of one array into another
+
+
+25. What is difference between local Storage and session storage ?
+
+Ans. localStorage data does not expire, whereas sessionStorage data is cleared when the page session ends.
+
+
+
+26. What is difference between local Storage and cookies storage ?
+
+Ans. cookies data accessible for both the server and the client side whereas localStorage data
+
+accessible for client side only.
+
+cookies storage limit is 4kb whereas localStorage limit is 5MB.
+
+
+
+
+
+
+
+
+
+
