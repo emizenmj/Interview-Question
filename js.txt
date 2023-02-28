@@ -47,7 +47,7 @@ Ans. callback function is a plain js function which passed to another function a
 
 8. What are Higher order function in javascript ? 
 
-Ans. A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
+Ans. Higher order functions are functions which take other function as a parameter or return a function as a value. The function passed as a parameter is called callback.
 
 
 
@@ -185,6 +185,19 @@ Ans. cookies data accessible for both the server and the client side whereas loc
 accessible for client side only.
 
 cookies storage limit is 4kb whereas localStorage limit is 5MB.
+
+
+27. How many types of errors present in Javascript ?
+
+
+Ans. There are 7 types of error present in Javascript.
+
+Syntax error - The error occurs when you use a predefined syntax incorrectly.
+
+Reference Error - In a case where a variable reference can't be found or hasn't been declared, then a Reference error occurs.
+
+
+
 
 
 
